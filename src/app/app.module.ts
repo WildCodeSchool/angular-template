@@ -7,7 +7,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { MatListModule } from '@angular/material/list';
 import { DemoPageComponent } from './pages/demo/demo.component';
-import { DemoComponent } from './components/title/demo.component';
+import { DemoComponent } from './components/demo/demo.component';
 import { DemoPipe } from './pipes/demo.pipe';
 import { DemoDirective } from './directives/demo.directive';
 
