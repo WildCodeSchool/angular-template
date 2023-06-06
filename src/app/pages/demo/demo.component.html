@@ -2,10 +2,9 @@
   <app-demo-component title="template angular"></app-demo-component>
 
   <section>
+    <h2>Linter configured:</h2>
     <ul>
-      <h2>Linter configured:</h2>
-      <li>- ESLint</li>
-      <li>- Prettier</li>
+      <li *ngFor="let linter of linterList">{{ linter }}</li>
     </ul>
   </section>
 </main>

@@ -1,7 +1,7 @@
 {
   "root": true,
   "ignorePatterns": ["projects/**/*"],
-  "plugins": ["unused-imports", "simple-import-sort"],
+  "plugins": ["unused-imports"],
   "parserOptions": {
     "project": "./tsconfig.json"
   },
