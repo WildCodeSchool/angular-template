@@ -9,8 +9,8 @@
     {
       "files": ["*.ts"],
       "extends": [
-        "airbnb-base",
-        "airbnb-typescript/base",
+        //"airbnb-base",
+        //"airbnb-typescript/base",
         "plugin:@typescript-eslint/recommended",
         "plugin:@angular-eslint/recommended",
         "plugin:@angular-eslint/template/process-inline-templates",

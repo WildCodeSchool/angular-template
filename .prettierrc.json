@@ -6,7 +6,7 @@
   "semi": true,
   "htmlWhitespaceSensitivity": "ignore",
   "bracketSpacing": true,
-  "printWidth": 100,
+  "printWidth": 120,
   "overrides": [
     {
       "files": "*.html",
